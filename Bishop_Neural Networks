@@ -1,0 +1,14 @@
+Regression and Classification comprise linear combinations of fixed basis functions. 
+Such models have useful analytical and computational properties but that their practical
+applicability was limited by the curse of dimensionality. In order to apply such models to large scale problems, 
+it is necessary to adapt the basis functions to the data.
+
+**SVMs address this by first defining basis functions that are centered on the training data points and then selecting a subset of these during training**. 
+
+Advantage: training involves nonlinear optimization, the objective function is convex, and so the solution of the optimization problem is relatively straightforward. 
+The number of basis functions increases with the size of training set.  The relevance vector machine also chooses a subset from a fixed set of basis functions and typically results in much sparser models.  Unlike the SVM it also produces probabilistic outputs, although this is at the expense of a nonconvex optimization during training. 
+
+  
+
+Any distance function D(X,Y) can be transformed into Kernel function K(X,Y). Similarly, any kernel function can be transformed into a distance function.
+
