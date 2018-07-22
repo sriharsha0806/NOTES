@@ -1,0 +1,17 @@
+# Introduction and Core Algorithms
+* Overview of ML landscape
+* Types of Imitation learning
+* Core algorithms of passive, interactive learning and cost learning
+
+# Extensions and Applications
+* Speech Animation
+* Structured prediction and search
+* Improving over expert
+* Filtering and sequence momdeling
+* Multi-objective imitation learning
+* Visual/few-shot imitation learning
+* Domain Adaptation imitation learning
+* Multi-agent imitation learning
+* Multi-modal imitation learning
+* Weaker Feedback
+
