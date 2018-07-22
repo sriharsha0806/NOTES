@@ -1,3 +1,5 @@
 # NOTES
 This repository contains Notes about Various Talks and Tutorials.
+![](https://github.com/sriharsha0806/NOTES/blob/master/rGV-7lczEeaX4QpLJOK7gQ_b34a158a0db8886e93d933746c79921f_trie_construction.png)
+![](https://github.com/sriharsha0806/NOTES/blob/master/t_JYI1czEeaWRg7WBfqodw_b3ab7fd0f74d1c4858fc043b5506b4ff_trie_matching_full.png)
 
